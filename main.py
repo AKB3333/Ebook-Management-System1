@@ -4,6 +4,7 @@ from models.customer import Customer
 from models.shopping_cart import ShoppingCart
 from models.order import Order
 
+
 def main():
     # Initialize catalog, customer, cart, and order for demonstration
     catalog = Catalog()
